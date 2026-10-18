@@ -1,0 +1,1 @@
+var e={grammar:`Грамматика`,sentences:`Построение предложений`,vocabulary:`Лексика`,phrases:`Выражения`};export{e as t};

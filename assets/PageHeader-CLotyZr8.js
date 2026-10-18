@@ -1,0 +1,1 @@
+import{N as e,r as t,s as n}from"./mantine-Djh4RxPV.js";import{t as r}from"./react-BRyU7BdW.js";var i=r();function a({title:r,description:a}){return(0,i.jsxs)(n,{gap:4,mb:`lg`,children:[(0,i.jsx)(t,{order:1,children:r}),a&&(0,i.jsx)(e,{c:`dimmed`,children:a})]})}export{a as t};

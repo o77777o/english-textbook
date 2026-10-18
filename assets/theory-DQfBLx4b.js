@@ -1,0 +1,53 @@
+import{t as e}from"./react-BRyU7BdW.js";var t=e();function n(e){let n={h2:`h2`,li:`li`,p:`p`,strong:`strong`,table:`table`,tbody:`tbody`,td:`td`,th:`th`,thead:`thead`,tr:`tr`,ul:`ul`,...e.components},{Callout:r,Check:a,Example:o,Formula:s}=n;return r||i(`Callout`,!0),a||i(`Check`,!0),o||i(`Example`,!0),s||i(`Formula`,!0),(0,t.jsxs)(t.Fragment,{children:[(0,t.jsxs)(n.p,{children:[`По-русски вопрос от утверждения отличается только интонацией: «Ты играешь в теннис» — «Ты играешь в теннис?». А отрицание — одно маленькое «не». В английском так не получится: для вопросов и отрицаний с обычными глаголами нужен помощник — `,(0,t.jsx)(n.strong,{children:`do`}),` или `,(0,t.jsx)(n.strong,{children:`does`}),`. После этого урока вы сможете спросить собеседника о его увлечениях и рассказать, чего вы не делаете.`]}),`
+`,(0,t.jsx)(n.h2,{id:`вспомогательный-глагол-do`,children:`Вспомогательный глагол do`}),`
+`,(0,t.jsxs)(n.p,{children:[`В прошлом уроке вы строили утверждения: I play tennis, she plays tennis. Помощника там нет. Но как только нужен вопрос или отрицание, в предложении появляется `,(0,t.jsx)(n.strong,{children:`вспомогательный глагол`}),` — служебное слово, которое само ничего не значит, а только помогает построить форму.`]}),`
+`,(0,t.jsxs)(n.table,{children:[(0,t.jsx)(n.thead,{children:(0,t.jsxs)(n.tr,{children:[(0,t.jsx)(n.th,{children:`Подлежащее`}),(0,t.jsx)(n.th,{children:`Помощник`}),(0,t.jsx)(n.th,{children:`Отрицание`})]})}),(0,t.jsxs)(n.tbody,{children:[(0,t.jsxs)(n.tr,{children:[(0,t.jsx)(n.td,{children:`I, you, we, they`}),(0,t.jsx)(n.td,{children:`do`}),(0,t.jsx)(n.td,{children:`don’t (do not)`})]}),(0,t.jsxs)(n.tr,{children:[(0,t.jsx)(n.td,{children:`he, she, it`}),(0,t.jsx)(n.td,{children:`does`}),(0,t.jsx)(n.td,{children:`doesn’t (does not)`})]})]})]}),`
+`,(0,t.jsx)(r,{type:`note`,title:`Куда уходит -s`,children:(0,t.jsxs)(n.p,{children:[`Окончание -s после he, she, it «переезжает» в помощник: she play`,(0,t.jsx)(n.strong,{children:`s`}),` → `,(0,t.jsx)(n.strong,{children:`does`}),` she play? → she `,(0,t.jsx)(n.strong,{children:`doesn’t`}),` play. Основной глагол после do, does, don’t и doesn’t всегда стоит в начальной форме, без -s.`]})}),`
+`,(0,t.jsx)(n.h2,{id:`вопросы-с-do-и-does`,children:`Вопросы с do и does`}),`
+`,(0,t.jsx)(n.p,{children:`Помощник ставится в самое начало вопроса, перед подлежащим. Основной глагол остаётся после подлежащего.`}),`
+`,(0,t.jsx)(s,{parts:[{text:`Do / Does`,label:`помощник`,accent:!0},{text:`Subject`,label:`кто`},{text:`verb`,label:`глагол без -s`},{text:`…?`,label:`остальное`,optional:!0}]}),`
+`,(0,t.jsx)(o,{en:`[Do] you play tennis?`,ru:`Вы играете в теннис?`}),`
+`,(0,t.jsx)(o,{en:`[Does] she like music?`,ru:`Ей нравится музыка?`,note:`Like без -s: окончание уже в does.`}),`
+`,(0,t.jsx)(o,{en:`[Do] your kids swim?`,ru:`Ваши дети плавают?`,note:`Your kids = they, поэтому do.`}),`
+`,(0,t.jsx)(r,{type:`mistake`,title:`Типичная ошибка: вопрос без помощника`,children:(0,t.jsxs)(n.p,{children:[(0,t.jsx)(n.strong,{children:`You like music?`}),` → `,(0,t.jsx)(n.strong,{children:`Do you like music?`}),` По-русски вопрос делает интонация, а в английском нужен do или does в начале. Без него получается утверждение с удивлённой интонацией.`]})}),`
+`,(0,t.jsx)(r,{type:`mistake`,title:`Типичная ошибка: двойное -s`,children:(0,t.jsxs)(n.p,{children:[(0,t.jsx)(n.strong,{children:`Does she plays tennis?`}),` → `,(0,t.jsx)(n.strong,{children:`Does she play tennis?`}),` Окончание -s ставится только один раз — в does. Основной глагол — без него.`]})}),`
+`,(0,t.jsx)(a,{id:`a1-present-simple-questions-check-01`}),`
+`,(0,t.jsx)(n.h2,{id:`краткие-ответы`,children:`Краткие ответы`}),`
+`,(0,t.jsx)(n.p,{children:`На вопрос с do или does отвечают не одним Yes или No, а коротко повторяют помощник. Основной глагол в ответе не повторяют.`}),`
+`,(0,t.jsxs)(n.table,{children:[(0,t.jsx)(n.thead,{children:(0,t.jsxs)(n.tr,{children:[(0,t.jsx)(n.th,{children:`Вопрос`}),(0,t.jsx)(n.th,{children:`Да`}),(0,t.jsx)(n.th,{children:`Нет`})]})}),(0,t.jsxs)(n.tbody,{children:[(0,t.jsxs)(n.tr,{children:[(0,t.jsx)(n.td,{children:`Do you cook?`}),(0,t.jsx)(n.td,{children:`Yes, I do.`}),(0,t.jsx)(n.td,{children:`No, I don’t.`})]}),(0,t.jsxs)(n.tr,{children:[(0,t.jsx)(n.td,{children:`Does he swim?`}),(0,t.jsx)(n.td,{children:`Yes, he does.`}),(0,t.jsx)(n.td,{children:`No, he doesn’t.`})]}),(0,t.jsxs)(n.tr,{children:[(0,t.jsx)(n.td,{children:`Do they dance?`}),(0,t.jsx)(n.td,{children:`Yes, they do.`}),(0,t.jsx)(n.td,{children:`No, they don’t.`})]})]})]}),`
+`,(0,t.jsx)(o,{en:`— Do you watch TV? — No, I [don’t].`,ru:`— Вы смотрите телевизор? — Нет.`}),`
+`,(0,t.jsx)(o,{en:`— Does Anna read books? — Yes, she [does].`,ru:`— Анна читает книги? — Да.`}),`
+`,(0,t.jsx)(r,{type:`note`,children:(0,t.jsx)(n.p,{children:`Просто Yes или No звучит резковато. Краткий ответ — Yes, I do или No, she doesn’t — вежливее и естественнее.`})}),`
+`,(0,t.jsx)(a,{id:`a1-present-simple-questions-check-02`}),`
+`,(0,t.jsx)(n.h2,{id:`отрицания`,children:`Отрицания`}),`
+`,(0,t.jsxs)(n.p,{children:[`Чтобы сказать, что вы чего-то не делаете, поставьте `,(0,t.jsx)(n.strong,{children:`don’t`}),` или `,(0,t.jsx)(n.strong,{children:`doesn’t`}),` перед основным глаголом.`]}),`
+`,(0,t.jsx)(s,{parts:[{text:`Subject`,label:`кто`},{text:`don’t / doesn’t`,label:`помощник + not`,accent:!0},{text:`verb`,label:`глагол без -s`},{text:`…`,label:`остальное`,optional:!0}]}),`
+`,(0,t.jsx)(o,{en:`I [don’t] watch TV.`,ru:`Я не смотрю телевизор.`}),`
+`,(0,t.jsx)(o,{en:`She [doesn’t] eat meat.`,ru:`Она не ест мясо.`}),`
+`,(0,t.jsx)(o,{en:`We [don’t] work on weekends.`,ru:`Мы не работаем по выходным.`}),`
+`,(0,t.jsx)(n.p,{children:`Полные формы do not и does not тоже верны, но в разговоре почти всегда говорят don’t и doesn’t.`}),`
+`,(0,t.jsx)(r,{type:`mistake`,title:`Типичная ошибка: одно not`,children:(0,t.jsxs)(n.p,{children:[(0,t.jsx)(n.strong,{children:`I not like coffee`}),` → `,(0,t.jsx)(n.strong,{children:`I don’t like coffee.`}),` Русское «не» нельзя просто поставить перед английским глаголом: обычному глаголу нужен помощник — don’t или doesn’t.`]})}),`
+`,(0,t.jsx)(r,{type:`mistake`,title:`Типичная ошибка: -s после doesn’t`,children:(0,t.jsxs)(n.p,{children:[(0,t.jsx)(n.strong,{children:`She doesn’t plays`}),` → `,(0,t.jsx)(n.strong,{children:`She doesn’t play.`}),` Как и в вопросе, -s уже есть в doesn’t, второй раз его не ставят.`]})}),`
+`,(0,t.jsx)(a,{id:`a1-present-simple-questions-check-03`}),`
+`,(0,t.jsx)(n.h2,{id:`вопросы-с-what-where-when`,children:`Вопросы с what, where, when`}),`
+`,(0,t.jsx)(n.p,{children:`Вопросительное слово — what (что), where (где), when (когда) — ставится перед помощником. Дальше порядок тот же: помощник, подлежащее, глагол.`}),`
+`,(0,t.jsx)(s,{parts:[{text:`What / Where / When`,label:`вопросительное слово`,optional:!0},{text:`do / does`,label:`помощник`,accent:!0},{text:`Subject`,label:`кто`},{text:`verb`,label:`глагол без -s`},{text:`…?`,label:`остальное`,optional:!0}]}),`
+`,(0,t.jsx)(o,{en:`What [do] you do in your free time?`,ru:`Что вы делаете в свободное время?`,note:`Первое do — помощник, второе — глагол «делать».`}),`
+`,(0,t.jsx)(o,{en:`Where [does] your sister live?`,ru:`Где живёт ваша сестра?`}),`
+`,(0,t.jsx)(o,{en:`When [do] you play tennis?`,ru:`Когда вы играете в теннис?`}),`
+`,(0,t.jsx)(r,{type:`note`,title:`What do you do?`,children:(0,t.jsxs)(n.p,{children:[`Короткий вопрос `,(0,t.jsx)(n.strong,{children:`What do you do?`}),` означает «Кем вы работаете?». А чтобы спросить про увлечения, говорят `,(0,t.jsx)(n.strong,{children:`What do you do in your free time?`}),` или `,(0,t.jsx)(n.strong,{children:`What do you do for fun?`})]})}),`
+`,(0,t.jsx)(n.h2,{id:`do-или-to-be`,children:`Do или to be?`}),`
+`,(0,t.jsxs)(n.p,{children:[`С to be (am, is, are) вопросы и отрицания строятся без помощника — это вы уже знаете: Are you tired? I’m not tired. Do и does нужны только для `,(0,t.jsx)(n.strong,{children:`обычных`}),` глаголов: like, play, watch, live, work.`]}),`
+`,(0,t.jsxs)(n.table,{children:[(0,t.jsx)(n.thead,{children:(0,t.jsxs)(n.tr,{children:[(0,t.jsx)(n.th,{children:`To be`}),(0,t.jsx)(n.th,{children:`Обычный глагол`})]})}),(0,t.jsxs)(n.tbody,{children:[(0,t.jsxs)(n.tr,{children:[(0,t.jsx)(n.td,{children:`Are you a student?`}),(0,t.jsx)(n.td,{children:`Do you like music?`})]}),(0,t.jsxs)(n.tr,{children:[(0,t.jsx)(n.td,{children:`She isn’t at home.`}),(0,t.jsx)(n.td,{children:`She doesn’t eat meat.`})]}),(0,t.jsxs)(n.tr,{children:[(0,t.jsx)(n.td,{children:`Is he tired?`}),(0,t.jsx)(n.td,{children:`Does he swim?`})]})]})]}),`
+`,(0,t.jsx)(r,{type:`mistake`,title:`Типичная ошибка: смешение do и to be`,children:(0,t.jsxs)(n.p,{children:[(0,t.jsx)(n.strong,{children:`Are you like jazz?`}),` → `,(0,t.jsx)(n.strong,{children:`Do you like jazz?`}),` и наоборот `,(0,t.jsx)(n.strong,{children:`Do you are a student?`}),` → `,(0,t.jsx)(n.strong,{children:`Are you a student?`}),` Проверьте: если в предложении есть обычный глагол (like, play), нужен do / does. Если другого глагола, кроме am, is, are, нет, вопрос строится с ними: Are you a student?`]})}),`
+`,(0,t.jsx)(a,{id:`a1-present-simple-questions-check-04`}),`
+`,(0,t.jsx)(n.h2,{id:`хобби-и-свободное-время`,children:`Хобби и свободное время`}),`
+`,(0,t.jsx)(n.p,{children:`Несколько сочетаний, которые пригодятся в разговоре об увлечениях:`}),`
+`,(0,t.jsxs)(n.ul,{children:[`
+`,(0,t.jsxs)(n.li,{children:[(0,t.jsx)(n.strong,{children:`play tennis / soccer`}),` — играть в теннис, футбол (без «в» и без артикля; в американском английском football — это американский футбол);`]}),`
+`,(0,t.jsxs)(n.li,{children:[(0,t.jsx)(n.strong,{children:`play the guitar`}),` — играть на гитаре (без «на»; с the, в американском разговорном — часто и без него);`]}),`
+`,(0,t.jsxs)(n.li,{children:[(0,t.jsx)(n.strong,{children:`watch TV`}),` — смотреть телевизор (не look и не see);`]}),`
+`,(0,t.jsxs)(n.li,{children:[(0,t.jsx)(n.strong,{children:`listen to music`}),` — слушать музыку (listen всегда с to);`]}),`
+`,(0,t.jsxs)(n.li,{children:[(0,t.jsx)(n.strong,{children:`read books, cook, swim, dance`}),` — читать книги, готовить, плавать, танцевать.`]}),`
+`]}),`
+`,(0,t.jsx)(o,{en:`— [Do] you play the guitar? — No, I [don’t]. But I listen to music every day.`,ru:`— Вы играете на гитаре? — Нет. Но я каждый день слушаю музыку.`})]})}function r(e={}){let{wrapper:r}=e.components||{};return r?(0,t.jsx)(r,{...e,children:(0,t.jsx)(n,{...e})}):n(e)}function i(e,t){throw Error(`Expected `+(t?`component`:`object`)+" `"+e+"` to be defined: you likely forgot to import, pass, or provide it.")}export{r as default};

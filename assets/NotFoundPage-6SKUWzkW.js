@@ -1,0 +1,1 @@
+import{p as e}from"./react-BRyU7BdW.js";function t(){throw e(`Страница не найдена`,{status:404})}export{t as loader};
