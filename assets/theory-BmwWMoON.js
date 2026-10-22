@@ -1,0 +1,36 @@
+import{t as e}from"./react-BRyU7BdW.js";var t=e();function n(e){let n={em:`em`,h2:`h2`,li:`li`,p:`p`,strong:`strong`,table:`table`,tbody:`tbody`,td:`td`,th:`th`,thead:`thead`,tr:`tr`,ul:`ul`,...e.components},{Callout:r,Check:a,Example:o,Formula:s}=n;return r||i(`Callout`,!0),a||i(`Check`,!0),o||i(`Example`,!0),s||i(`Formula`,!0),(0,t.jsxs)(t.Fragment,{children:[(0,t.jsxs)(n.p,{children:[`Вы говорите: «Если завтра будет дождь, мы останемся дома» или «Если нагреть воду до 100 градусов, она закипает». В первом случае вы прогнозируете возможное будущее, во втором — описываете закон природы. В английском для таких «реальных» условий есть две конструкции: `,(0,t.jsx)(n.strong,{children:`zero conditional`}),` и `,(0,t.jsx)(n.strong,{children:`first conditional`}),`. Главная ловушка для русскоязычных — слово `,(0,t.jsx)(n.strong,{children:`will`}),` после `,(0,t.jsx)(n.strong,{children:`if`}),`.`]}),`
+`,(0,t.jsx)(n.h2,{id:`zero-conditional`,children:`Zero conditional`}),`
+`,(0,t.jsxs)(n.p,{children:[`Zero conditional говорит о том, что `,(0,t.jsx)(n.strong,{children:`всегда`}),` верно: о законах природы, фактах, привычках и правилах. Условие и результат всегда идут вместе, поэтому в обеих частях стоит Present Simple.`]}),`
+`,(0,t.jsx)(s,{parts:[{text:`If`,label:`условие`},{text:`Present Simple`,label:`что происходит`,accent:!0},{text:`Present Simple`,label:`результат`,accent:!0}]}),`
+`,(0,t.jsx)(o,{en:`If you [heat] ice, it melts.`,ru:`Если нагреть лёд, он тает.`}),`
+`,(0,t.jsx)(o,{en:`If I [drink] coffee at night, I can’t sleep.`,ru:`Если я пью кофе на ночь, я не могу уснуть.`}),`
+`,(0,t.jsxs)(n.p,{children:[`Здесь `,(0,t.jsx)(n.strong,{children:`if`}),` почти равно `,(0,t.jsx)(n.strong,{children:`when`}),` («всякий раз, когда»): `,(0,t.jsx)(n.em,{children:`When you heat ice, it melts`}),`. Смысл не меняется.`]}),`
+`,(0,t.jsx)(a,{id:`b1-first-conditional-check-01`}),`
+`,(0,t.jsx)(n.h2,{id:`first-conditional`,children:`First conditional`}),`
+`,(0,t.jsxs)(n.p,{children:[`First conditional говорит об `,(0,t.jsx)(n.strong,{children:`одной реальной ситуации в будущем`}),`. Условие вполне возможно, и вы предсказываете результат. Глагол в части с if стоит в Present Simple, а в главной части — `,(0,t.jsx)(n.strong,{children:`will`}),` + начальная форма.`]}),`
+`,(0,t.jsx)(s,{parts:[{text:`If`,label:`условие`},{text:`Present Simple`,label:`часть с if`,accent:!0},{text:`will + глагол`,label:`результат`,accent:!0}]}),`
+`,(0,t.jsx)(o,{en:`If it [rains] tomorrow, we will stay home.`,ru:`Если завтра будет дождь, мы останемся дома.`}),`
+`,(0,t.jsx)(o,{en:`If we recycle more, we [will] create less waste.`,ru:`Если мы будем больше перерабатывать, мусора станет меньше.`}),`
+`,(0,t.jsxs)(n.table,{children:[(0,t.jsx)(n.thead,{children:(0,t.jsxs)(n.tr,{children:[(0,t.jsx)(n.th,{children:`Конструкция`}),(0,t.jsx)(n.th,{children:`Часть с if`}),(0,t.jsx)(n.th,{children:`Главная часть`})]})}),(0,t.jsxs)(n.tbody,{children:[(0,t.jsxs)(n.tr,{children:[(0,t.jsx)(n.td,{children:`Zero`}),(0,t.jsx)(n.td,{children:`Present Simple`}),(0,t.jsx)(n.td,{children:`Present Simple`})]}),(0,t.jsxs)(n.tr,{children:[(0,t.jsx)(n.td,{children:`First`}),(0,t.jsx)(n.td,{children:`Present Simple`}),(0,t.jsx)(n.td,{children:`will + глагол`})]})]})]}),`
+`,(0,t.jsxs)(n.p,{children:[`Части можно менять местами. Если часть с `,(0,t.jsx)(n.strong,{children:`if`}),` стоит первой, после неё ставится запятая. Если второй, запятая не нужна.`]}),`
+`,(0,t.jsx)(o,{en:`We will stay home [if] it rains tomorrow.`,ru:`Мы останемся дома, если завтра будет дождь.`}),`
+`,(0,t.jsx)(n.h2,{id:`не-ставьте-will-после-if`,children:`Не ставьте will после if`}),`
+`,(0,t.jsxs)(n.p,{children:[`По-русски мы говорим «если завтра `,(0,t.jsx)(n.strong,{children:`будет`}),` дождь» — глагол стоит в будущем времени. В английском так нельзя: после `,(0,t.jsx)(n.strong,{children:`if`}),` будущее выражается формой Present Simple.`]}),`
+`,(0,t.jsx)(r,{type:`mistake`,title:`Типичная ошибка: will после if`,children:(0,t.jsxs)(n.p,{children:[(0,t.jsx)(n.strong,{children:`If it will rain, we will stay home`}),` → `,(0,t.jsx)(n.strong,{children:`If it rains, we will stay home.`}),` Will ставится только в главной части. В части с if берите Present Simple: `,(0,t.jsx)(n.em,{children:`if it rains`}),`, `,(0,t.jsx)(n.em,{children:`if you come`}),`, `,(0,t.jsx)(n.em,{children:`if she calls`}),`.`]})}),`
+`,(0,t.jsxs)(n.p,{children:[`Не забывайте окончание -s: `,(0,t.jsxs)(n.em,{children:[`if she `,(0,t.jsx)(n.strong,{children:`calls`})]}),`, `,(0,t.jsxs)(n.em,{children:[`if it `,(0,t.jsx)(n.strong,{children:`rains`})]}),`. Для отрицания используйте don’t / doesn’t: `,(0,t.jsx)(n.em,{children:`If you don’t hurry, you will miss the bus.`})]}),`
+`,(0,t.jsx)(a,{id:`b1-first-conditional-check-02`}),`
+`,(0,t.jsx)(n.h2,{id:`другие-варианты-главной-части`,children:`Другие варианты главной части`}),`
+`,(0,t.jsx)(n.p,{children:`В главной части first conditional не обязательно стоит will. Подойдут и другие формы:`}),`
+`,(0,t.jsxs)(n.ul,{children:[`
+`,(0,t.jsxs)(n.li,{children:[(0,t.jsx)(n.strong,{children:`Модальные глаголы`}),`: `,(0,t.jsx)(n.em,{children:`If you feel ill, you should see a doctor.`}),` — «…вам стоит обратиться к врачу».`]}),`
+`,(0,t.jsxs)(n.li,{children:[(0,t.jsx)(n.strong,{children:`Просьба или совет в повелительном наклонении`}),`: `,(0,t.jsx)(n.em,{children:`If you see Anna, tell her to call me.`})]}),`
+`,(0,t.jsxs)(n.li,{children:[(0,t.jsx)(n.strong,{children:`Возможность`}),`: `,(0,t.jsx)(n.em,{children:`If it’s sunny, we might go to the beach.`})]}),`
+`]}),`
+`,(0,t.jsx)(o,{en:`If you [see] Anna, tell her to call me.`,ru:`Если увидите Анну, скажите ей позвонить мне.`}),`
+`,(0,t.jsx)(n.h2,{id:`unless-и-as-long-as`,children:`Unless и as long as`}),`
+`,(0,t.jsxs)(n.p,{children:[(0,t.jsx)(n.strong,{children:`Unless`}),` значит «если… не»: `,(0,t.jsx)(n.em,{children:`Unless you hurry, you’ll be late`}),` = `,(0,t.jsx)(n.em,{children:`If you don’t hurry, you’ll be late`}),`. После unless тоже стоит Present Simple, и отрицания не нужно.`]}),`
+`,(0,t.jsxs)(n.p,{children:[(0,t.jsx)(n.strong,{children:`As long as`}),` значит «при условии, что»: `,(0,t.jsx)(n.em,{children:`I’ll go as long as you come with me.`})]}),`
+`,(0,t.jsx)(o,{en:`[Unless] it rains, we’ll have a picnic.`,ru:`Если не будет дождя, мы устроим пикник.`}),`
+`,(0,t.jsx)(o,{en:`You can borrow my car [as long as] you drive carefully.`,ru:`Можете взять мою машину, если будете ездить аккуратно.`}),`
+`,(0,t.jsx)(r,{type:`note`,title:`Unless без not`,children:(0,t.jsxs)(n.p,{children:[(0,t.jsx)(n.strong,{children:`Unless you don’t hurry`}),` — ошибка: unless уже содержит «не». Говорите `,(0,t.jsx)(n.em,{children:`unless you hurry`}),`.`]})}),`
+`,(0,t.jsx)(a,{id:`b1-first-conditional-check-03`})]})}function r(e={}){let{wrapper:r}=e.components||{};return r?(0,t.jsx)(r,{...e,children:(0,t.jsx)(n,{...e})}):n(e)}function i(e,t){throw Error(`Expected `+(t?`component`:`object`)+" `"+e+"` to be defined: you likely forgot to import, pass, or provide it.")}export{r as default};

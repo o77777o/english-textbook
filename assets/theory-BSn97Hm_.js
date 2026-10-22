@@ -1,0 +1,31 @@
+import{t as e}from"./react-BRyU7BdW.js";var t=e();function n(e){let n={h2:`h2`,p:`p`,strong:`strong`,table:`table`,tbody:`tbody`,td:`td`,th:`th`,thead:`thead`,tr:`tr`,...e.components},{Callout:r,Check:a,Example:o,Formula:s}=n;return r||i(`Callout`,!0),a||i(`Check`,!0),o||i(`Example`,!0),s||i(`Formula`,!0),(0,t.jsxs)(t.Fragment,{children:[(0,t.jsxs)(n.p,{children:[`«Эх, надо было слушать маму!» «Хоть бы он перестал так громко разговаривать!» Это два разных чувства: сожаление о том, что уже случилось, и раздражение из-за чужого поведения. В английском для обоих случаев есть `,(0,t.jsx)(n.strong,{children:`wish`}),` и `,(0,t.jsx)(n.strong,{children:`if only`}),`. Они помогают честно сказать, что вы хотели бы изменить, и звучат естественно в разговоре, письмах и рассказах о жизни.`]}),`
+`,(0,t.jsx)(n.h2,{id:`wish-о-прошлом`,children:`Wish о прошлом`}),`
+`,(0,t.jsxs)(n.p,{children:[`Чтобы сказать, что вы `,(0,t.jsx)(n.strong,{children:`жалеете о прошлом`}),`, после wish ставят `,(0,t.jsx)(n.strong,{children:`Past Perfect`}),` (had + V3). Время «сдвигается» на один шаг назад: прошлое сожаление выражается ещё более прошлой формой.`]}),`
+`,(0,t.jsx)(s,{parts:[{text:`I wish`,label:`сожаление`},{text:`Subject`,label:`кто`},{text:`had + V3`,label:`что не случилось`,accent:!0}]}),`
+`,(0,t.jsx)(o,{en:`I wish I [had studied] harder at school.`,ru:`Жаль, что я не учился усерднее в школе.`}),`
+`,(0,t.jsx)(o,{en:`She wishes she [hadn’t told] him the secret.`,ru:`Она жалеет, что рассказала ему секрет.`}),`
+`,(0,t.jsxs)(n.p,{children:[`Обратите внимание на смысл: если вы `,(0,t.jsx)(n.strong,{children:`не`}),` сделали, то после wish ставится утверждение (`,(0,t.jsx)(n.strong,{children:`had studied`}),`). Если вы `,(0,t.jsx)(n.strong,{children:`сделали`}),` и жалеете, то отрицание (`,(0,t.jsx)(n.strong,{children:`hadn’t told`}),`). По-русски вместо этого говорят «жаль, что не…», поэтому легко запутаться.`]}),`
+`,(0,t.jsx)(r,{type:`mistake`,title:`Типичная ошибка: would have после wish`,children:(0,t.jsxs)(n.p,{children:[(0,t.jsx)(n.strong,{children:`I wish I would have studied.`}),` → `,(0,t.jsx)(n.strong,{children:`I wish I had studied.`}),` После wish нужно Past Perfect, а не would have. Would ставят только в конструкции wish + would (о чужом поведении).`]})}),`
+`,(0,t.jsx)(a,{id:`b2-wish-past-check-01`}),`
+`,(0,t.jsx)(n.h2,{id:`if-only`,children:`If only`}),`
+`,(0,t.jsxs)(n.p,{children:[(0,t.jsx)(n.strong,{children:`If only`}),` означает то же, что wish, но звучит эмоциональнее: «Если бы только…» Грамматика та же: Past Perfect для сожаления о прошлом.`]}),`
+`,(0,t.jsx)(o,{en:`If only I [had known] the truth!`,ru:`Если бы только я знал правду!`}),`
+`,(0,t.jsx)(o,{en:`If only we [hadn’t argued].`,ru:`Если бы мы только не поссорились.`}),`
+`,(0,t.jsxs)(n.p,{children:[`If only обычно произносят с восклицательной интонацией и ставят отдельным предложением: `,(0,t.jsx)(n.strong,{children:`If only I’d listened!`})]}),`
+`,(0,t.jsx)(a,{id:`b2-wish-past-check-02`}),`
+`,(0,t.jsx)(n.h2,{id:`wish-и-would-для-раздражения`,children:`Wish и would для раздражения`}),`
+`,(0,t.jsxs)(n.p,{children:[`Когда вас `,(0,t.jsx)(n.strong,{children:`раздражает`}),` чужое поведение или привычка, говорят `,(0,t.jsx)(n.strong,{children:`wish + would`}),`. Вы хотите, чтобы человек изменил поведение в будущем.`]}),`
+`,(0,t.jsx)(s,{parts:[{text:`I wish`,label:`раздражение`},{text:`Subject`,label:`другой человек`},{text:`would (not) + V`,label:`что хочется изменить`,accent:!0}]}),`
+`,(0,t.jsx)(o,{en:`I wish you [would stop] interrupting me.`,ru:`Хотел бы я, чтобы вы перестали меня перебивать.`}),`
+`,(0,t.jsx)(o,{en:`I wish he [wouldn’t leave] his dirty cups in the sink.`,ru:`Жаль, что он вечно оставляет грязные чашки в раковине.`}),`
+`,(0,t.jsx)(o,{en:`I wish it [would stop] raining.`,ru:`Скорее бы дождь прекратился.`}),`
+`,(0,t.jsxs)(n.p,{children:[`Wish + would подходит для чужих действий и ситуаций, которые «должны» измениться, например для погоды. Про себя так не говорят: `,(0,t.jsx)(n.strong,{children:`I wish I would`}),` — ошибка. Если вы хотите изменить своё поведение, скажите `,(0,t.jsx)(n.strong,{children:`I should…`}),` или `,(0,t.jsx)(n.strong,{children:`I’ll try to…`}),`.`]}),`
+`,(0,t.jsx)(a,{id:`b2-wish-past-check-03`}),`
+`,(0,t.jsx)(n.h2,{id:`wish-о-настоящем-и-о-прошлом`,children:`Wish о настоящем и о прошлом`}),`
+`,(0,t.jsx)(n.p,{children:`Сравните три формы: время в предложении зависит от того, о чём вы жалеете.`}),`
+`,(0,t.jsxs)(n.table,{children:[(0,t.jsx)(n.thead,{children:(0,t.jsxs)(n.tr,{children:[(0,t.jsx)(n.th,{children:`О чём`}),(0,t.jsx)(n.th,{children:`Форма`}),(0,t.jsx)(n.th,{children:`Пример`})]})}),(0,t.jsxs)(n.tbody,{children:[(0,t.jsxs)(n.tr,{children:[(0,t.jsx)(n.td,{children:`Настоящее`}),(0,t.jsx)(n.td,{children:`wish + Past Simple`}),(0,t.jsx)(n.td,{children:`I wish I had a car.`})]}),(0,t.jsxs)(n.tr,{children:[(0,t.jsx)(n.td,{children:`Прошлое`}),(0,t.jsx)(n.td,{children:`wish + Past Perfect`}),(0,t.jsx)(n.td,{children:`I wish I had bought it.`})]}),(0,t.jsxs)(n.tr,{children:[(0,t.jsx)(n.td,{children:`Раздражение`}),(0,t.jsx)(n.td,{children:`wish + would`}),(0,t.jsx)(n.td,{children:`I wish he would call.`})]})]})]}),`
+`,(0,t.jsxs)(n.p,{children:[`С модальным глаголом тоже работает сдвиг: `,(0,t.jsx)(n.strong,{children:`I wish I could swim`}),` (сейчас не умею) и `,(0,t.jsx)(n.strong,{children:`I wish I could have gone`}),` (в тот раз не смог).`]}),`
+`,(0,t.jsx)(n.h2,{id:`wish-и-hope`,children:`Wish и hope`}),`
+`,(0,t.jsxs)(n.p,{children:[`Не путайте `,(0,t.jsx)(n.strong,{children:`wish`}),` и `,(0,t.jsx)(n.strong,{children:`hope`}),`. `,(0,t.jsx)(n.strong,{children:`Hope`}),` говорит о реальной возможности, а `,(0,t.jsx)(n.strong,{children:`wish`}),` — о том, что нереально или не случилось.`]}),`
+`,(0,t.jsx)(o,{en:`I [hope] you’ll come to the party.`,ru:`Надеюсь, ты придёшь на вечеринку.`,note:`Это реальная возможность.`}),`
+`,(0,t.jsx)(o,{en:`I [wish] you had come to the party.`,ru:`Жаль, что ты не пришёл на вечеринку.`,note:`Вечеринка уже прошла.`})]})}function r(e={}){let{wrapper:r}=e.components||{};return r?(0,t.jsx)(r,{...e,children:(0,t.jsx)(n,{...e})}):n(e)}function i(e,t){throw Error(`Expected `+(t?`component`:`object`)+" `"+e+"` to be defined: you likely forgot to import, pass, or provide it.")}export{r as default};

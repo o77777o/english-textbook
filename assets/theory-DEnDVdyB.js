@@ -1,0 +1,33 @@
+import{t as e}from"./react-BRyU7BdW.js";var t=e();function n(e){let n={h2:`h2`,li:`li`,ol:`ol`,p:`p`,strong:`strong`,table:`table`,tbody:`tbody`,td:`td`,th:`th`,thead:`thead`,tr:`tr`,...e.components},{Callout:r,Check:a,Example:o,Formula:s}=n;return r||i(`Callout`,!0),a||i(`Check`,!0),o||i(`Example`,!0),s||i(`Formula`,!0),(0,t.jsxs)(t.Fragment,{children:[(0,t.jsxs)(n.p,{children:[`Перфектные времена пугают многих: в русском нет ничего похожего, поэтому мы выбираем время «на глаз». Есть простой способ навести порядок. У каждого перфектного времени есть `,(0,t.jsx)(n.strong,{children:`точка отсчёта`}),` — момент, к которому действие уже произошло или длится. Поймёте точку отсчёта — выберете время. В этом уроке мы соберём Present, Past и Future Perfect в одну систему.`]}),`
+`,(0,t.jsx)(n.h2,{id:`общая-идея-перфекта`,children:`Общая идея перфекта`}),`
+`,(0,t.jsxs)(n.p,{children:[`Все перфектные времена строятся одинаково: `,(0,t.jsx)(n.strong,{children:`have`}),` (в нужной форме) + третья форма глагола (`,(0,t.jsx)(n.strong,{children:`V3`}),`). Меняется только форма have, а вместе с ней и точка отсчёта.`]}),`
+`,(0,t.jsx)(s,{parts:[{text:`Subject`,label:`кто действует`},{text:`have / has / had`,label:`точка отсчёта`,accent:!0},{text:`V3`,label:`третья форма`,accent:!0}]}),`
+`,(0,t.jsxs)(n.table,{children:[(0,t.jsx)(n.thead,{children:(0,t.jsxs)(n.tr,{children:[(0,t.jsx)(n.th,{children:`Время`}),(0,t.jsx)(n.th,{children:`Форма`}),(0,t.jsx)(n.th,{children:`Точка отсчёта`})]})}),(0,t.jsxs)(n.tbody,{children:[(0,t.jsxs)(n.tr,{children:[(0,t.jsx)(n.td,{children:`Present Perfect`}),(0,t.jsx)(n.td,{children:`have / has + V3`}),(0,t.jsx)(n.td,{children:`сейчас`})]}),(0,t.jsxs)(n.tr,{children:[(0,t.jsx)(n.td,{children:`Past Perfect`}),(0,t.jsx)(n.td,{children:`had + V3`}),(0,t.jsx)(n.td,{children:`момент в прошлом`})]}),(0,t.jsxs)(n.tr,{children:[(0,t.jsx)(n.td,{children:`Future Perfect`}),(0,t.jsx)(n.td,{children:`will have + V3`}),(0,t.jsx)(n.td,{children:`момент в будущем`})]})]})]}),`
+`,(0,t.jsx)(n.h2,{id:`present-perfect`,children:`Present Perfect`}),`
+`,(0,t.jsxs)(n.p,{children:[`Точка отсчёта — `,(0,t.jsx)(n.strong,{children:`сейчас`}),`. Действие произошло раньше, но связано с настоящим: результат виден сейчас или период ещё не закончился.`]}),`
+`,(0,t.jsx)(o,{en:`I [have lost] my keys. I can’t get in.`,ru:`Я потерял ключи. Не могу войти.`,note:`Ключей нет сейчас — результат в настоящем.`}),`
+`,(0,t.jsx)(o,{en:`She [has lived] here since 2019.`,ru:`Она живёт здесь с 2019 года.`,note:`По-русски — настоящее время, по-английски — Present Perfect.`}),`
+`,(0,t.jsx)(n.h2,{id:`past-perfect`,children:`Past Perfect`}),`
+`,(0,t.jsxs)(n.p,{children:[`Точка отсчёта — `,(0,t.jsx)(n.strong,{children:`момент в прошлом`}),`. Past Perfect показывает действие, которое случилось ещё раньше этого момента.`]}),`
+`,(0,t.jsx)(o,{en:`When I arrived, the train [had] already [left].`,ru:`Когда я приехал, поезд уже ушёл.`}),`
+`,(0,t.jsx)(o,{en:`He realized he [had forgotten] his passport.`,ru:`Он понял, что забыл паспорт.`}),`
+`,(0,t.jsx)(r,{type:`note`,title:`Обратите внимание`,children:(0,t.jsx)(n.p,{children:`Если события идут по порядку и порядок понятен, Past Perfect не нужен: I got up, had breakfast and left. Он нужен, когда важно показать, что одно действие произошло раньше другого.`})}),`
+`,(0,t.jsx)(r,{type:`mistake`,title:`Типичная ошибка`,children:(0,t.jsxs)(n.p,{children:[(0,t.jsx)(n.strong,{children:`When I got to the station, the train already left`}),` → `,(0,t.jsx)(n.strong,{children:`…had already left.`}),` По-русски мы говорим «когда я пришёл, поезд уже ушёл» в одном времени. В английском более раннее действие оформляют Past Perfect.`]})}),`
+`,(0,t.jsx)(a,{id:`b2-perfect-review-check-01`}),`
+`,(0,t.jsx)(n.h2,{id:`perfect-continuous`,children:`Perfect Continuous`}),`
+`,(0,t.jsxs)(n.p,{children:[`Если важна `,(0,t.jsx)(n.strong,{children:`длительность`}),` или процесс до точки отсчёта, добавляем `,(0,t.jsx)(n.strong,{children:`been + V-ing`}),`: have been doing, had been doing, will have been doing.`]}),`
+`,(0,t.jsxs)(n.table,{children:[(0,t.jsx)(n.thead,{children:(0,t.jsxs)(n.tr,{children:[(0,t.jsx)(n.th,{children:`Время`}),(0,t.jsx)(n.th,{children:`Пример`})]})}),(0,t.jsxs)(n.tbody,{children:[(0,t.jsxs)(n.tr,{children:[(0,t.jsx)(n.td,{children:`Present`}),(0,t.jsx)(n.td,{children:`I have been working.`})]}),(0,t.jsxs)(n.tr,{children:[(0,t.jsx)(n.td,{children:`Past`}),(0,t.jsx)(n.td,{children:`I had been working.`})]}),(0,t.jsxs)(n.tr,{children:[(0,t.jsx)(n.td,{children:`Future`}),(0,t.jsx)(n.td,{children:`I will have been working.`})]})]})]}),`
+`,(0,t.jsx)(o,{en:`I [have been waiting] for an hour.`,ru:`Я жду уже час.`}),`
+`,(0,t.jsx)(o,{en:`She was tired because she [had been running].`,ru:`Она устала, потому что бегала.`}),`
+`,(0,t.jsx)(o,{en:`In June I [will have been working] here for ten years.`,ru:`В июне я проработаю здесь десять лет.`}),`
+`,(0,t.jsx)(a,{id:`b2-perfect-review-check-02`}),`
+`,(0,t.jsx)(n.h2,{id:`как-выбрать-время`,children:`Как выбрать время`}),`
+`,(0,t.jsx)(n.p,{children:`Задайте себе три вопроса.`}),`
+`,(0,t.jsxs)(n.ol,{children:[`
+`,(0,t.jsxs)(n.li,{children:[(0,t.jsx)(n.strong,{children:`Какая точка отсчёта`}),` — сейчас, момент в прошлом или момент в будущем?`]}),`
+`,(0,t.jsxs)(n.li,{children:[(0,t.jsx)(n.strong,{children:`Действие произошло раньше этой точки?`}),` Если да — нужен перфект.`]}),`
+`,(0,t.jsxs)(n.li,{children:[(0,t.jsx)(n.strong,{children:`Важен результат или длительность?`}),` Результат — Perfect, процесс и срок — Perfect Continuous.`]}),`
+`]}),`
+`,(0,t.jsx)(r,{type:`mistake`,title:`Перфект и конкретное время`,children:(0,t.jsxs)(n.p,{children:[(0,t.jsx)(n.strong,{children:`I have seen that film last week`}),` → `,(0,t.jsx)(n.strong,{children:`I saw that film last week.`}),` С указанием конкретного прошедшего времени (yesterday, last week, in 2020, ago) нужен Past Simple, а не Present Perfect.`]})}),`
+`,(0,t.jsx)(r,{type:`mistake`,title:`Типичная ошибка: for и since`,children:(0,t.jsxs)(n.p,{children:[(0,t.jsx)(n.strong,{children:`I am living here since 2018`}),` → `,(0,t.jsx)(n.strong,{children:`I have lived here since 2018.`}),` Если действие началось в прошлом и продолжается сейчас, русское настоящее время превращается в Present Perfect (или Continuous).`]})}),`
+`,(0,t.jsx)(a,{id:`b2-perfect-review-check-03`})]})}function r(e={}){let{wrapper:r}=e.components||{};return r?(0,t.jsx)(r,{...e,children:(0,t.jsx)(n,{...e})}):n(e)}function i(e,t){throw Error(`Expected `+(t?`component`:`object`)+" `"+e+"` to be defined: you likely forgot to import, pass, or provide it.")}export{r as default};

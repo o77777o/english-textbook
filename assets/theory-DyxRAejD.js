@@ -1,0 +1,39 @@
+import{t as e}from"./react-BRyU7BdW.js";var t=e();function n(e){let n={h2:`h2`,li:`li`,p:`p`,strong:`strong`,table:`table`,tbody:`tbody`,td:`td`,th:`th`,thead:`thead`,tr:`tr`,ul:`ul`,...e.components},{Callout:r,Check:a,Example:o,Formula:s}=n;return r||i(`Callout`,!0),a||i(`Check`,!0),o||i(`Example`,!0),s||i(`Formula`,!0),(0,t.jsxs)(t.Fragment,{children:[(0,t.jsxs)(n.p,{children:[`Носитель английского не говорит «Он выдал секрет». Он говорит: «He spilled the beans» — «Он рассыпал бобы». Такие выражения называются `,(0,t.jsx)(n.strong,{children:`идиомами`}),`: их смысл нельзя вывести из значений отдельных слов. На уровне C1 вы встречаете идиомы в сериалах, на встречах и в переписке с коллегами, и понимать их важно. Но ещё важнее использовать их уместно: ровно столько, сколько нужно, и в подходящей ситуации.`]}),`
+`,(0,t.jsx)(n.h2,{id:`идиома-и-дословный-перевод`,children:`Идиома и дословный перевод`}),`
+`,(0,t.jsxs)(n.p,{children:[`У идиомы два значения: `,(0,t.jsx)(n.strong,{children:`буквальное`}),` (literal) и `,(0,t.jsx)(n.strong,{children:`переносное`}),` (figurative). Бобы в spill the beans рассыпаются на самом деле только в буквальном смысле. В живой речи идиома почти всегда переносная.`]}),`
+`,(0,t.jsxs)(n.table,{children:[(0,t.jsx)(n.thead,{children:(0,t.jsxs)(n.tr,{children:[(0,t.jsx)(n.th,{children:`Идиома`}),(0,t.jsx)(n.th,{children:`Дословно`}),(0,t.jsx)(n.th,{children:`Смысл`})]})}),(0,t.jsxs)(n.tbody,{children:[(0,t.jsxs)(n.tr,{children:[(0,t.jsx)(n.td,{children:`spill the beans`}),(0,t.jsx)(n.td,{children:`рассыпать бобы`}),(0,t.jsx)(n.td,{children:`выдать секрет`})]}),(0,t.jsxs)(n.tr,{children:[(0,t.jsx)(n.td,{children:`hit the sack`}),(0,t.jsx)(n.td,{children:`ударить мешок`}),(0,t.jsx)(n.td,{children:`пойти спать`})]}),(0,t.jsxs)(n.tr,{children:[(0,t.jsx)(n.td,{children:`an arm and a leg`}),(0,t.jsx)(n.td,{children:`рука и нога`}),(0,t.jsx)(n.td,{children:`очень дорого`})]})]})]}),`
+`,(0,t.jsx)(o,{en:`Who [spilled the beans] about the party?`,ru:`Кто проболтался о вечеринке?`}),`
+`,(0,t.jsx)(o,{en:`That car [cost an arm and a leg].`,ru:`Эта машина стоила целое состояние.`}),`
+`,(0,t.jsx)(r,{type:`mistake`,title:`Типичная ошибка: калька`,children:(0,t.jsxs)(n.p,{children:[`Английскую идиому нельзя подменять русской. `,(0,t.jsx)(n.strong,{children:`on one wave`}),` → `,(0,t.jsx)(n.strong,{children:`on the same page`}),`. Русское «на одной волне» и английское «на одной странице» означают похожее, но слова разные. Ищите английский эквивалент, а не переводите по словам.`]})}),`
+`,(0,t.jsx)(a,{id:`c1-idioms-check-01`}),`
+`,(0,t.jsx)(n.h2,{id:`как-понять-идиому`,children:`Как понять идиому`}),`
+`,(0,t.jsx)(n.p,{children:`Если выражение не складывается в смысл, вы, скорее всего, встретили идиому. Делайте так:`}),`
+`,(0,t.jsxs)(n.ul,{children:[`
+`,(0,t.jsxs)(n.li,{children:[(0,t.jsx)(n.strong,{children:`Посмотрите на контекст.`}),` Fred spilled the beans — и вечеринка перестала быть сюрпризом.`]}),`
+`,(0,t.jsxs)(n.li,{children:[(0,t.jsx)(n.strong,{children:`Проверьте буквальный смысл.`}),` Если он абсурден, значит, смысл переносный.`]}),`
+`,(0,t.jsxs)(n.li,{children:[(0,t.jsx)(n.strong,{children:`Запомните целиком.`}),` Учите выражение как единый блок, а не по словам.`]}),`
+`,(0,t.jsxs)(n.li,{children:[(0,t.jsx)(n.strong,{children:`Проверьте в словаре.`}),` Сомнительную идиому лучше уточнить, чем угадать.`]}),`
+`]}),`
+`,(0,t.jsx)(n.p,{children:`Некоторые идиомы легко узнать по образу: the tip of the iceberg — маленькая видимая часть чего-то огромного.`}),`
+`,(0,t.jsx)(o,{en:`These complaints are just [the tip of the iceberg].`,ru:`Эти жалобы — лишь верхушка айсберга.`}),`
+`,(0,t.jsx)(n.h2,{id:`идиомы-в-грамматике-фиксированная-форма`,children:`Идиомы в грамматике: фиксированная форма`}),`
+`,(0,t.jsx)(n.p,{children:`В идиоме нельзя менять слова и артикли, но глагол меняется по общим правилам: время, лицо, число подлежащего.`}),`
+`,(0,t.jsx)(s,{parts:[{text:`Subject`,label:`кто`},{text:`verb`,label:`меняется`,accent:!0},{text:`fixed part`,label:`не меняется`}]}),`
+`,(0,t.jsxs)(n.table,{children:[(0,t.jsx)(n.thead,{children:(0,t.jsxs)(n.tr,{children:[(0,t.jsx)(n.th,{children:`Форма`}),(0,t.jsx)(n.th,{children:`Пример`})]})}),(0,t.jsxs)(n.tbody,{children:[(0,t.jsxs)(n.tr,{children:[(0,t.jsx)(n.td,{children:`Present Simple`}),(0,t.jsx)(n.td,{children:`She spills the beans.`})]}),(0,t.jsxs)(n.tr,{children:[(0,t.jsx)(n.td,{children:`Past Simple`}),(0,t.jsx)(n.td,{children:`She spilled the beans.`})]}),(0,t.jsxs)(n.tr,{children:[(0,t.jsx)(n.td,{children:`Отрицание`}),(0,t.jsx)(n.td,{children:`She didn’t spill the beans.`})]}),(0,t.jsxs)(n.tr,{children:[(0,t.jsx)(n.td,{children:`Present Perfect`}),(0,t.jsx)(n.td,{children:`She has spilled the beans.`})]})]})]}),`
+`,(0,t.jsx)(o,{en:`He [hit the sack] early last night.`,ru:`Вчера он рано лёг спать.`}),`
+`,(0,t.jsx)(o,{en:`We [haven’t spilled the beans] yet.`,ru:`Мы пока не выдали секрет.`}),`
+`,(0,t.jsx)(r,{type:`mistake`,title:`Типичная ошибка`,children:(0,t.jsxs)(n.p,{children:[(0,t.jsx)(n.strong,{children:`cost a hand and a leg`}),` → `,(0,t.jsx)(n.strong,{children:`cost an arm and a leg.`}),` Заменять слова нельзя, это самая частая ошибка. Другие — потеря артикля (`,(0,t.jsx)(n.strong,{children:`tip of iceberg`}),`) и неверный предлог (`,(0,t.jsx)(n.strong,{children:`in the same page`}),`). Не забывайте: an arm and a leg, the tip of the iceberg, on the same page.`]})}),`
+`,(0,t.jsx)(a,{id:`c1-idioms-check-02`}),`
+`,(0,t.jsx)(n.h2,{id:`регистр-и-уместность`,children:`Регистр и уместность`}),`
+`,(0,t.jsx)(n.p,{children:`Идиомы бывают нейтральными, разговорными (informal), формальными. Большинство ярких идиом — разговорные: их хорошо слышать от друга, но не стоит писать в официальном письме.`}),`
+`,(0,t.jsxs)(n.table,{children:[(0,t.jsx)(n.thead,{children:(0,t.jsxs)(n.tr,{children:[(0,t.jsx)(n.th,{children:`Ситуация`}),(0,t.jsx)(n.th,{children:`Хороший выбор`})]})}),(0,t.jsxs)(n.tbody,{children:[(0,t.jsxs)(n.tr,{children:[(0,t.jsx)(n.td,{children:`разговор с друзьями`}),(0,t.jsx)(n.td,{children:`hit the sack, spill the beans`})]}),(0,t.jsxs)(n.tr,{children:[(0,t.jsx)(n.td,{children:`рабочий чат`}),(0,t.jsx)(n.td,{children:`on the same page`})]}),(0,t.jsxs)(n.tr,{children:[(0,t.jsx)(n.td,{children:`отчёт, письмо клиенту`}),(0,t.jsx)(n.td,{children:`нейтральные слова`})]})]})]}),`
+`,(0,t.jsx)(o,{en:`Before the call, let’s make sure we’re [on the same page].`,ru:`Перед звонком убедимся, что мы одинаково всё понимаем.`,note:`Нейтральная идиома: допустима и на работе.`}),`
+`,(0,t.jsx)(n.p,{children:`Несколько правил:`}),`
+`,(0,t.jsxs)(n.ul,{children:[`
+`,(0,t.jsx)(n.li,{children:`Одна-две идиомы в абзаце — достаточно. Больше звучит искусственно.`}),`
+`,(0,t.jsx)(n.li,{children:`Не используйте идиому, если не уверены в её значении или оттенке.`}),`
+`,(0,t.jsx)(n.li,{children:`В официальном тексте предпочитайте нейтральную лексику (facing difficulties вместо up the creek).`}),`
+`,(0,t.jsx)(n.li,{children:`Клише (cliché) — избитые выражения. Их стоит избегать в сочинениях.`}),`
+`]}),`
+`,(0,t.jsx)(r,{type:`note`,children:(0,t.jsxs)(n.p,{children:[`Идиома — не то же самое, что `,(0,t.jsx)(n.strong,{children:`пословица`}),` (proverb): пословица — законченная мысль («Better late than never»), а идиома — часть предложения.`]})}),`
+`,(0,t.jsx)(a,{id:`c1-idioms-check-03`})]})}function r(e={}){let{wrapper:r}=e.components||{};return r?(0,t.jsx)(r,{...e,children:(0,t.jsx)(n,{...e})}):n(e)}function i(e,t){throw Error(`Expected `+(t?`component`:`object`)+" `"+e+"` to be defined: you likely forgot to import, pass, or provide it.")}export{r as default};
